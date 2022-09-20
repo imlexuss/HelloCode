@@ -1,0 +1,15 @@
+C:\Users\lexus\Desktop\Examples\example005_ifElse\bin\Debug\net6.0\example005_ifElse.exe
+C:\Users\lexus\Desktop\Examples\example005_ifElse\bin\Debug\net6.0\example005_ifElse.deps.json
+C:\Users\lexus\Desktop\Examples\example005_ifElse\bin\Debug\net6.0\example005_ifElse.runtimeconfig.json
+C:\Users\lexus\Desktop\Examples\example005_ifElse\bin\Debug\net6.0\example005_ifElse.dll
+C:\Users\lexus\Desktop\Examples\example005_ifElse\bin\Debug\net6.0\example005_ifElse.pdb
+C:\Users\lexus\Desktop\Examples\example005_ifElse\obj\Debug\net6.0\example005_ifElse.csproj.AssemblyReference.cache
+C:\Users\lexus\Desktop\Examples\example005_ifElse\obj\Debug\net6.0\example005_ifElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lexus\Desktop\Examples\example005_ifElse\obj\Debug\net6.0\example005_ifElse.AssemblyInfoInputs.cache
+C:\Users\lexus\Desktop\Examples\example005_ifElse\obj\Debug\net6.0\example005_ifElse.AssemblyInfo.cs
+C:\Users\lexus\Desktop\Examples\example005_ifElse\obj\Debug\net6.0\example005_ifElse.csproj.CoreCompileInputs.cache
+C:\Users\lexus\Desktop\Examples\example005_ifElse\obj\Debug\net6.0\example005_ifElse.dll
+C:\Users\lexus\Desktop\Examples\example005_ifElse\obj\Debug\net6.0\refint\example005_ifElse.dll
+C:\Users\lexus\Desktop\Examples\example005_ifElse\obj\Debug\net6.0\example005_ifElse.pdb
+C:\Users\lexus\Desktop\Examples\example005_ifElse\obj\Debug\net6.0\example005_ifElse.genruntimeconfig.cache
+C:\Users\lexus\Desktop\Examples\example005_ifElse\obj\Debug\net6.0\ref\example005_ifElse.dll
